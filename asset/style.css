@@ -1,0 +1,17 @@
+.display-4 {
+  text-align: center;
+}
+
+.footer {
+  background-color: #17a2b8;
+  color: black;
+  text-align: center;
+}
+
+img {
+  width: 86%;
+}
+
+.container {
+  margin-bottom: 10px;
+}
